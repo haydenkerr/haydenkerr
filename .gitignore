@@ -1,6 +1,0 @@
-__pycache__/
-qr_codes/*.png
-qr_codes.db
-*.sqlite
-
-.pytest_cache/
